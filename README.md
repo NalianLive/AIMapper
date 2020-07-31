@@ -1,6 +1,9 @@
 # AIMapper
 Our modification of Cute Sophie is now available to everyone! Based on https://github.com/kotritrona/osumapper.
 
+# Notebook Info
+Notebooks 1, 2, 3 train the AI. Notebooks 5, 6, 7 make maps. 4 is unused.
+
 # Installation
 - Install [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 - Install [node.js](https://nodejs.org/en/)
