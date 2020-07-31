@@ -8,6 +8,7 @@ echo Done.
 echo Installing packages, please wait...
 py -3.7 -m pip install soundfile==0.10.2 tensorflow==2.0.0-beta1
 call conda install -y numpy=1.16.2 matplotlib=3.0.3 pandas=0.24.2 scikit-learn=0.19.1 scipy=1.1.0
+call conda install -c conda-forge jupyterlab
 npm i
 echo Done. Run `open_notebook.bat` (after editing it, obviously) to open Jupyter Notebook.
 pause
